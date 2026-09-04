@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** SAIPRASATH P
-- **Register No:** 212224230238
+- **Name:** PAVITHRAN S
+- **Register No:** 212223240113
 
 ---
 
