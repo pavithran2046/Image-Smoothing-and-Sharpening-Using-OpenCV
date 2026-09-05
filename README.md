@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** TIMMAPURAM YOGEESWAR
-- **Register No:** 212223230233
+- **Name:** PAVITHRAN S
+- **Register No:** 212223240113
 
 ---
 
